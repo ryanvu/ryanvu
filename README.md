@@ -10,9 +10,11 @@ Fun, creative and food-loving web developer here. Driven by design and aesthetic
 
 ##
 
+<div style={background: 'white'}>
 <a href="http://www.ryanvu.ca">
     <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
+</div>
 
 <!--
 
