@@ -2,6 +2,8 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=dracula)](https://github.com/ryanvu/github-readme-stats)
 
+![Ryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=dracula)
+
 
 <!--
 **ryanvu/ryanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
