@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu)](https://github.com/ryanvu/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=dracula)](https://github.com/ryanvu/github-readme-stats)
 
 
 <!--
