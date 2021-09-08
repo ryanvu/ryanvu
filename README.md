@@ -10,11 +10,12 @@ Fun, creative and food-loving web developer here. Driven by design and aesthetic
 
 ##
 
-<div style={{background: 'white'}}>
 <a href="http://www.ryanvu.ca">
     <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
-</div>
+<a href="https://www.linkedin.com/in/ryan-vu-0402/">
+    <img height="32" align="left" alt="LinkedIn Profile" src="assets/icons/linkedin.svg" />
+</a>
 
 <!--
 
