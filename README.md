@@ -8,9 +8,10 @@ Fun, creative and food-loving web developer here. Driven by design and aesthetic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Contact Me
 
 <a href="http://www.ryanvu.ca">
+    <span>www.ryanvu.ca</span>
     <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ryan-vu-0402/">
