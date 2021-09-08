@@ -8,13 +8,16 @@ Fun, creative and food-loving web developer here. Driven by design and aesthetic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact Me
+## Connect with me
 
 <a href="http://www.ryanvu.ca">
     <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ryan-vu-0402/">
     <img height="32" align="left" alt="LinkedIn Profile" src="assets/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ryanvu_">
+    <img height="32" align="left" alt="Instagram Profile" src="assets/icons/instagram.svg" />
 </a>
 
 <!--
