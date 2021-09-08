@@ -3,16 +3,19 @@
 Fun, creative and food-loving web developer here. Driven by design and aesthetic and pizza.
 
 ## GitHub Stats
+
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=dracula)](https://github.com/ryanvu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
-<!--
 <a href="http://www.ryanvu.ca">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+    <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
+
+<!--
+
 
 <a href="mailto:hi@novakcgx.me">
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
