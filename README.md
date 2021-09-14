@@ -2,6 +2,10 @@
 
 Fun, creative and food-loving web developer here. Driven by design and aesthetic and pizza.
 
+Frontend: React.js, Vue.js (learning)
+Backend: Node.js/Express 
+Databases: Postgres, MySQL, MongoDB (learning)
+
 ## GitHub Stats
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=dracula)](https://github.com/ryanvu/github-readme-stats)
