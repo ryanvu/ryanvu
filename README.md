@@ -2,9 +2,15 @@
 
 Fun, creative and food-loving web developer here. Driven by design and aesthetic and pizza.
 
+<div>
 Frontend: React.js, Vue.js (learning)
+</div>
+<div>
 Backend: Node.js/Express 
+</div>
+<div>    
 Databases: Postgres, MySQL, MongoDB (learning)
+</div>
 
 ## GitHub Stats
 
