@@ -3,7 +3,7 @@
 Fun, creative and food-loving web developer here. Driven by design and aesthetic and pizza.
 
 <div>
-Frontend: React.js, Vue.js, Angular
+Frontend: React.js/Next.js, Vue.js/Nuxt, Angular, Phoenix LiveView
 </div>
 <div>
 Backend: Node.js/Express 
