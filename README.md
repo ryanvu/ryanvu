@@ -15,7 +15,7 @@ Databases: Postgres, MySQL, MongoDB
 ## GitHub Stats
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)
 
 ## Connect with me
 
