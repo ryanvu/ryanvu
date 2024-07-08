@@ -15,14 +15,14 @@ Databases: Postgres, MySQL, MongoDB
 ## GitHub Stats
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvu&layout=compact)
 
 ## Connect with me
 
 <a href="http://www.ryanvu.ca">
     <img height="32" align="left" alt="Website" src="assets/icons/personal.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ryan-vu-0402/">
+<a href="https://www.linkedin.com/in/ryannvu/">
     <img height="32" align="left" alt="LinkedIn Profile" src="assets/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ryanvu_">
