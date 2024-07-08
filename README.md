@@ -1,17 +1,14 @@
-## Hi there, I'm Ryan👋
+# Hi there, I'm Ryan👋
 
-Fun, creative and food-loving web developer here. Driven by design and aesthetic and pizza.
-
-<div>
+I'm currently a Fullstack Developer at a start-up. I enjoy problem solving and creating beautiful visual experiences. Photographer on the side, and a 'wanna-be' graphic designer. Always looking to contribute to awesome projects and experiences! If you need help I'll be there!
+```
+Skills:
 Frontend: React.js/Next.js, Vue.js/Nuxt, Angular, Phoenix LiveView
-</div>
-<div>
-Backend: Node.js/Express 
-</div>
-<div>    
-Databases: Postgres, MySQL, MongoDB
-</div>
 
+Backend: Node.js/Express 
+
+Databases: Postgres, MySQL, MongoDB
+```
 ## GitHub Stats
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvu&show_icons=true&theme=transparent)
@@ -29,21 +26,6 @@ Databases: Postgres, MySQL, MongoDB
     <img height="32" align="left" alt="Instagram Profile" src="assets/icons/instagram.svg" />
 </a>
 
-<!--
-
-
-<a href="mailto:hi@novakcgx.me">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
-</a>
-
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/novakcgx">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
---!>
 
 <!--
 **ryanvu/ryanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
